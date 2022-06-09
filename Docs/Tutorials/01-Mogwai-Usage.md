@@ -6,6 +6,8 @@
 
 ## Building Mogwai
 
+#### XIXI
+
 In Visual Studio:
 1. Set your solution configuration to `ReleaseD3D12` or `DebugD3D12`
 2. Right-click on the Mogwai project in the Solution Explorer and select "Set as StartUp Project"
